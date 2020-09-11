@@ -14,6 +14,7 @@ Coding stlye is mostly from 2013-2015 so please excuse the awful ways some thing
 
 WebView is a subclass of qdeclarativewebview from the open source Qt Project, based on Qt 4.8.
 
+SocialConnect folder is the old Twitter and Facebook plugins which are broken from TLS issues and old API's, but I've left them there in case someone wants to try fix them.
 
 License wise, do what you please but any pubic clones of Star Browser must keep the About Page credits to myself and all other people on the list.
 
