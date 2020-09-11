@@ -1,13 +1,13 @@
-# Star-Browser-Symbian-
+# Star-Browser-Symbian
 
 
 
 Hi everyone!
 
-This is Star Browser for Symbian OS, the most popular Qt based browser for Symbian Belle devices, first released on 15 June 2013.
+This is Star Browser for Symbian OS, the most popular Qt based browser for Symbian Anna/Belle devices, first released on 15 June 2013.
 
 
-Please see Star-Browser-Download-Manager- repo for the external Download manager, this can be disabled (see that repo for details.
+Please see Star-Browser-Download-Manager repo for the external Download manager, this can also be disabled if you wish (see that repo for details).
 
 
 Coding stlye is mostly from 2013-2015 so please excuse the awful ways some things are implemented back in those days, I did clean it up a tad in the 2020 1.75 one off release but lots remains.
