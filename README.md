@@ -34,6 +34,8 @@ Apex Designs
 
 And so many more!
 
+
+Get public release here: https://allstarsoftware.co.uk/StarBrowser
 Check out all my projects across all platforms at: http://allstarsoftware.co.uk
 
 Social Media:
