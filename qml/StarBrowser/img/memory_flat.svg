@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="30px"
+   height="30px"
+   viewBox="0 0 30 30"
+   enable-background="new 0 0 30 30"
+   xml:space="preserve"
+   id="svg2"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="memory.svg"><metadata
+   id="metadata19"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs17">
+	
+	
+	
+	
+</defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="999"
+   id="namedview15"
+   showgrid="false"
+   inkscape:zoom="15.733333"
+   inkscape:cx="21.927269"
+   inkscape:cy="12.061812"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg2" />
+<g
+   id="DO_NOT_EDIT_-_BOUNDING_BOX">
+	<rect
+   id="BOUNDING_BOX"
+   fill="none"
+   width="30"
+   height="30" />
+</g>
+<path
+   style="fill:#ffffff"
+   inkscape:connector-curvature="0"
+   id="path13"
+   d="M 27.783,5.262 H 7.088 c -0.67,0 -1.605,0.387 -2.078,0.859 L 1.861,9.27 C 1.389,9.744 1,10.68 1,11.348 v 12.174 c 0,0.67 0.549,1.219 1.219,1.219 h 25.564 c 0.67,0 1.217,-0.549 1.217,-1.219 V 6.479 C 29,5.809 28.453,5.262 27.783,5.262 z M 8.305,22.305 H 2.219 v -2.436 h 6.086 v 2.436 z m 0,-3.653 H 2.219 v -2.436 h 6.086 v 2.436 z M 8.305,15 H 2.219 V 12.566 H 8.305 V 15 z" />
+</svg>

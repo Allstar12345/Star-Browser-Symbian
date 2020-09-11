@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg3794"
+   height="44px"
+   width="66px"
+   version="1.1"
+   y="0px"
+   x="0px"
+   viewBox="0 0 66 44"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="qtg_graf_switchbutton_fill_orange.svg">
+  <defs
+     id="defs19" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview17"
+     showgrid="false"
+     inkscape:zoom="5.1363636"
+     inkscape:cx="33"
+     inkscape:cy="22"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3794" />
+  <metadata
+     id="metadata3841">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <linearGradient
+     id="SVGID_1_"
+     y2="1.0005"
+     gradientUnits="userSpaceOnUse"
+     y1="43"
+     x2="33"
+     x1="33">
+    <stop
+       id="stop3799"
+       stop-color="#FFF"
+       offset="0" />
+    <stop
+       id="stop3801"
+       stop-color="#FFF"
+       stop-opacity="0"
+       offset="1" />
+  </linearGradient>
+  <path
+     id="path3803"
+     fill-opacity="0.3"
+     d="M45,2c14.814,0,20,5.184,20,20,0,14.818-5.186,20-20,20h-24c-14.814,0-20-5.182-20-20,0-14.816,5.186-20,20-20h24m0-1h-24c-15.309,0-21,5.691-21,21,0,15.31,5.691,21,21,21h24c15.309,0,21-5.69,21-21,0-15.309-5.691-21-21-21z"
+     stroke-opacity="0.3"
+     fill="url(#SVGID_1_)" />
+  <path
+     id="path3812"
+     d="M45,2c14.814,0,20,5.184,20,20,0,14.818-5.186,20-20,20h-24c-14.814,0-20-5.182-20-20,0-14.816,5.186-20,20-20h24"
+     stroke-opacity="0.3"
+     fill-opacity="0.3"
+     fill="#F60" />
+  <path
+     id="path3796"
+     fill="#F60"
+     d="M45,42c14.814,0,20-5.184,20-20,0-14.818-5.186-20-20-20h-24c-14.814,0-20,5.182-20,20,0,14.816,5.186,20,20,20h24" />
+  <linearGradient
+     id="SVGID_3_"
+     y2="42.335"
+     gradientUnits="userSpaceOnUse"
+     y1="2"
+     x2="33"
+     x1="33">
+    <stop
+       id="stop3815"
+       stop-color="#000"
+       offset="0" />
+    <stop
+       id="stop3817"
+       stop-color="#000"
+       stop-opacity="0"
+       offset="1" />
+  </linearGradient>
+  <path
+     id="path3819"
+     fill-opacity="0.03"
+     fill="url(#SVGID_3_)"
+     d="M45,2h-24c-14.814,0-20,5.184-20,20,0,14.818,5.186,20,20,20h24c14.814,0,20-5.182,20-20,0-14.816-5.186-20-20-20zm0,37h-24c-13.028,0-17-3.973-17-17s3.972-17,17-17h24c13.028,0,17,3.973,17,17s-3.972,17-17,17z"
+     stroke-opacity="0.03" />
+  <rect
+     id="rect3835"
+     width="66"
+     height="44"
+     fill="none" />
+</svg>

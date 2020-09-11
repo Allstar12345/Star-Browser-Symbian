@@ -1,0 +1,5 @@
+// Define the ID of the control
+enum TQtDlgExControlIds
+{
+    EMyAppWaitNote = 0x100
+};

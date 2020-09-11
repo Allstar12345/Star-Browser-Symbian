@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository target="RProperty" version="" uidName="KPSUidAknFep" uidValue="0xE0324338">
+  
+<key int="0x1" ref="/StarBrowser/downloadManager/src"> </key>
+<key int="0x2" ref="/StarBrowser/downloadManager/target"></key>
+</repository>

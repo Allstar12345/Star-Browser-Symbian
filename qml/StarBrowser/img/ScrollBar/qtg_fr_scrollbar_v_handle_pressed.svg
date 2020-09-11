@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   height="100"
+   viewBox="0 0 12 100"
+   width="12"
+   version="1.1"
+   y="0px"
+   x="0px"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="qtg_fr_scrollbar_v_handle_pressed.svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="999"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="18.88"
+     inkscape:cx="26.480829"
+     inkscape:cy="61.471162"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="path4"
+     d="m4,6.5c0-1.104,0.895-2,2-2,1.104,0,2,0.896,2,2v88c0,1.104-0.896,2-2,2-1.105,0-2-0.896-2-2v-88z"
+     fill="#009dff"
+     style="fill:#008bff;fill-opacity:1" />
+  <rect
+     id="rect6"
+     height="12"
+     width="100"
+     y="88"
+     x="0"
+     fill="none" />
+</svg>

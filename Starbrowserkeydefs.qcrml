@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository target="RProperty" version="" uidName="KPSUidAknFep" uidValue="0x100056de">
+    <key ref="/vkb/state" int="0x00000004"/>
+</repository>

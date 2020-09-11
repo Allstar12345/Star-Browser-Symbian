@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="70px"
+   version="1.1"
+   viewBox="0 0 70 70"
+   width="70px"
+   x="0px"
+   y="0px"
+   id="svg2"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="windowLoad.svg">
+  <metadata
+     id="metadata19">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs17" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="999"
+     id="namedview15"
+     showgrid="false"
+     inkscape:zoom="4.76792"
+     inkscape:cx="18.825613"
+     inkscape:cy="42.260026"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <rect
+     fill="none"
+     height="70"
+     width="70"
+     id="rect4" />
+  <path
+     d="M35,5C18.433,5,5,18.432,5,35s13.433,30,30,30c16.568,0,30-13.432,30-30S51.568,5,35,5z M35,61  C20.642,61,9,49.359,9,35S20.642,9,35,9c14.357,0,26,11.641,26,26S49.357,61,35,61z"
+     fill-opacity="0.15"
+     stroke-opacity="0.15"
+     id="path6" />
+  <radialGradient
+     cx="-271.52"
+     cy="358.1729"
+     gradientTransform="matrix(1 0 0 -1 306.52 362.9805)"
+     gradientUnits="userSpaceOnUse"
+     id="SVGID_1_"
+     r="55.8809">
+    <stop
+       offset="0"
+       style="stop-color:#ffffff;stop-opacity:1;"
+       id="stop9" />
+    <stop
+       offset="1"
+       style="stop-color:#ffffff;stop-opacity:0;"
+       id="stop11" />
+  </radialGradient>
+  <path
+     d="M35,5C18.433,5,5,18.432,5,35s13.433,30,30,30c16.568,0,30-13.432,30-30S51.568,5,35,5z M35,61  C20.642,61,9,49.359,9,35S20.642,9,35,9c14.357,0,26,11.641,26,26S49.357,61,35,61z"
+     fill="url(#SVGID_1_)"
+     id="path13"
+     style="opacity:1;" />
+</svg>

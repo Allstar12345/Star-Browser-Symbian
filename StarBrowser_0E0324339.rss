@@ -1,0 +1,45 @@
+//  RESOURCE IDENTIFIER
+NAME QTDL
+
+#include <eikon.rh>
+#include <avkon.rsg>
+#include <avkon.rh>
+#include <avkon.mbg>
+#include "nativesymbiandlg.hrh"
+
+// Don't forget those two resources, which are required to make this
+// file a valid Symbian resource file. These have to be defined before
+// you define any own resources!
+RESOURCE RSS_SIGNATURE
+    {
+    }
+
+RESOURCE TBUF16
+    {
+    buf = "";
+    }
+	
+// The definition of our own wait dialog with a cancel softkey
+// Read the Symbian documentation for more details on the dialog definitions.
+RESOURCE DIALOG r_wait_note_softkey_cancel
+    {
+    flags = EAknWaitNoteFlags;
+    buttons = R_AVKON_SOFTKEYS_EMPTY;
+    items =
+        {
+        DLG_LINE
+            {
+            type = EAknCtNote;
+            id = EMyAppWaitNote;
+            control= AVKON_NOTE 
+                { 
+                layout = EWaitLayout;
+                singular_label = "Wait...";
+                plural_label   = "";
+                animation      = R_QGN_GRAF_WAIT_BAR_ANIM;
+                };
+            }
+        };
+    }
+
+

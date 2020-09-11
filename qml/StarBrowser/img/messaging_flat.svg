@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="80px"
+   height="80px"
+   viewBox="0 0 67 57"
+   enable-background="new 0 0 67 57"
+   xml:space="preserve"
+   id="svg2"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="messaging.svg"><metadata
+   id="metadata25"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="999"
+   id="namedview23"
+   showgrid="false"
+   inkscape:zoom="8.34386"
+   inkscape:cx="64.694308"
+   inkscape:cy="50.205108"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg2" />
+<defs
+   id="defs4">
+</defs>
+<rect
+   fill="none"
+   width="80"
+   height="80"
+   id="rect6" />
+
+
+<linearGradient
+   id="SVGID_1_"
+   gradientUnits="userSpaceOnUse"
+   x1="33.0005"
+   y1="45"
+   x2="33.0005"
+   y2="12.0005">
+	<stop
+   offset="0"
+   style="stop-color:#ffffff;stop-opacity:1;"
+   id="stop13" />
+	<stop
+   offset="0.50309998"
+   style="stop-color:#ffffff;stop-opacity:1;"
+   id="stop15" />
+	<stop
+   offset="0.9693"
+   style="stop-color:#FFFFFF"
+   id="stop17" />
+</linearGradient>
+<path
+   d="M55,12H11l22,18L55,12z M33,33L11,15v28c0,1.104,0.896,2,2,2h40c1.104,0,2-0.896,2-2V15L33,33z"
+   id="path19"
+   fill="url(#SVGID_1_)"
+   style="fill-opacity:1.0" />
+<path
+   fill="#FFFFFF"
+   d="M11,15v1l22,18l22-18v-1L33,33L11,15z M53.777,13L55,12H11l1.223,1H53.777z"
+   id="path21" />
+</svg>
